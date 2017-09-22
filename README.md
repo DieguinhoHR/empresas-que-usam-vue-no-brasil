@@ -6,6 +6,7 @@ Adapcon | http://www.adapcon.com.br/ | Vue, Vuex, Node, Amazon AWS | Jaraguá do
 Amo | http://amo.delivery/ | Vue, Vuex, Node | Chapecó/RS
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Laravel
+DataClick | http://www.dataclick.com.br/v6/ | Vuejs, Vuex, Node.js, Laravel | Itajai/SC
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Empari | https://www.empari.com.br/ | Vuejs, Laravel | Maringá-PR
@@ -24,7 +25,6 @@ RG Sistemas | http://rgsistemas.com.br/ | Vuejs, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 Sorte7 | http://www.sorte7.com.br/ | Node
 Virtual Age | http://www.virtualage.com.br/ | Electron 
-DataClick | http://www.dataclick.com.br/v6/ | Vuejs, Vuex, Node.js, Laravel | Itajai/SC
 ## Projetos que usam Vue.js no Brasil
 
 
