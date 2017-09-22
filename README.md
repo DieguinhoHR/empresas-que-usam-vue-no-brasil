@@ -24,6 +24,7 @@ RG Sistemas | http://rgsistemas.com.br/ | Vuejs, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 Sorte7 | http://www.sorte7.com.br/ | Node
 Virtual Age | http://www.virtualage.com.br/ | Electron 
+DataClick | http://www.dataclick.com.br/v6/ | Vuejs, Vuex, Node.js, Laravel | Itajai/SC
 ## Projetos que usam Vue.js no Brasil
 
 
